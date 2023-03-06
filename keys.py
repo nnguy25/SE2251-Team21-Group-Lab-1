@@ -1,3 +1,3 @@
-YT_API_KEY = "hi"
+YT_API_KEY = ""
 TW_API_KEY = ""
 WEA_API_KEY = ""
